@@ -1,0 +1,78 @@
+lust#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbHVzdA%3d%3d#growing very well,thickly,and healthily;extremely pleasing to the senses茂盛的；使感官极为愉快的；性感的#
+libido#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbGliaWRv#sexual urge;strong force of life in a person性欲；冲动；生命力#
+wobbly#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNd29iYmx5#shaky;unsteady 摇晃的；摇摆的；不稳定的；无定见的#
+stock#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc3RvY2s%3d#common;routine;used too much 普通的；平凡的；陈腐的#
+awe#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYXdl#feeling of respect mixed with fear and wonder敬畏；惧怕#
+withered#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNd2l0aGVyZWQ%3d#languished 憔悴的；枯槁的；干瘪的#
+spinster#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc3BpbnN0ZXI%3d#unmarried woman,usually one who is no longer young and seems unlikely to marry 未婚女人；老处女#
+Parisian#https://fs-gateway.frhelper.com/wordmp3/93cab50a-44aa-45ae-87b8-b314b1805201.mp3#People of Paris#
+spoils#https://fs-gateway.esdict.cn/wordmp3/1d3d4129-ecd6-46a4-b6a0-78b3ea968fa3.mp3#goods,advantages,or profits obtained by winning a war or being in a particular position or situation战利品；成果；收益#
+scoot#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc2Nvb3Q%3d#go,run or move quickly or hastily 疾走；飞奔；猛冲#
+Golf GTI#Can't find#Golf Gran Turismo Injecton,a car which is comfortable,expensive and very powerful#
+clutch#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY2x1dGNo#grasp or hold tightly;seize 紧握；抓住；抓取#
+rave#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNcmF2ZQ%3d%3d#speak with great enthusiasm;praise enthusiastically 赞扬；吹捧#
+antisocial#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYW50aXNvY2lhbA%3d%3d#unwilling or unable to associate with other people;hostile or unfriendly toward others不善社交的；反社会的#
+sage#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc2FnZQ%3d%3d#profoundly wise man 贤人，圣人#
+meditation#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbWVkaXRhdGlvbg%3d%3d#thought;reflection;contemplation 默想；沉思；冥想#
+embrace#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNZW1icmFjZQ%3d%3d#take or receive gladly or eagerly;accpet willingly 采用；接受#
+demographer#https://fs-gateway.frhelper.com/wordmp3/52a7fbaf-502c-438a-8112-bfe673d70184.mp3#person whose job involves studying the characteristics of human populations,such as size,growth,density,distribution, and vital statistics人口统计学家#
+momentum#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbW9tZW50dW0%3d#force that increases the rate of development of a process;impetus 动力；势头；要素#
+wreak#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNd3JlYWs%3d#cause sth to happen in a violent and often uncontrolled way;do or express violently造成；使遭受；引起；发泄#
+havoc#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNaGF2b2M%3d#widespread damage or confusion 大破坏；混乱#
+Spaniard#https://fs-gateway.frhelper.com/wordmp3/244dc861-fe3d-4160-a2ca-8d8c4a7bab8b.mp3#native or inhabitant of Spain 西班牙人；西班牙居民#
+Scandinavian#https://fs-gateway.frhelper.com/wordmp3/1c3d5fb8-e25f-494d-9e35-09bd29d71671.mp3#people of the countries Denmark,Norway,Sweden,and Iceland in Northern Europe 斯堪的纳维亚人；北欧人#
+Briton#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNQnJpdG9u#native or inhabitant of Great Britain 大不列颠人；英国人#
+outnumber#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNb3V0bnVtYmVy#be larger in numbers than#
+tony#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNdG9ueQ%3d%3d#high-toned;stylish 高贵的；豪华的；时髦的#
+track#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNdHJhY2s%3d#one of the pieces of music on a long-playing record,CD or tape（唱片或录音带中的）一首乐曲#
+foster#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNZm9zdGVy#help (sth) to grow or develop;encourage 培养；助长；鼓励#
+sharp#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc2hhcnA%3d#smart;stylish;fashionable 精明的；漂亮的；潇洒的；时髦的#
+savvy#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc2F2dnk%3d#experienced and well-informed;intelligent 有经验的；聪慧的#
+temperamentally#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNdGVtcGVyYW1lbnRhbGx5#according to one's nature;out of one's temperament性格上；在气质上#
+affiliate#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYWZmaWxpYXRl#subsidiary;a person or organization associated with another in a subordinate relationship 分支机构；会员#
+hefty#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNaGVmdHk%3d#large and powerful;or considerable size or amount 强壮的；有力的；异常大的；相当多的#
+crop#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY3JvcA%3d%3d#group or quantity appearing at any one time 一群，一组；许多#
+connotation#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY29ubm90YXRpb24%3d#associated or secondary meaning of word or expression;implication 涵义；内涵；言外之意；含义#
+wanderlust#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNd2FuZGVybHVzdA%3d%3d#strong desire to wander 旅行癖；流浪癖#
+shy#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc2h5#short of;lacking;deficient 不足的；未达到的；缺乏对#
+allot#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYWxsb3Q%3d#divide and give as shares;assign 分派；分配#
+addictive#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYWRkaWN0aXZl#(of drugs,etc)causing addiction;habit-forming 使人上瘾的；使人入迷的#
+strain#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc3RyYWlu#mark excessive demands upon;force sth beyond a limit of what is acceptable过多要求；竭力使超过极限#
+complex#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY29tcGxleA%3d%3d#group of buildings that are close together;large building containing smaller buildings that are used for the same purpose建筑群；综合性建筑#
+driven#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNZHJpdmVu#motivated by or having a compulsive quality or need有紧迫感的；有迫切感的#
+gentrification#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNZ2VudHJpZmljYXRpb24%3d#process by which a street or area formerly lived by poor people is changed by people of a higher social class going to live there 中产阶级向劳动阶级居住区移居；地区贵族化#
+latte#Can't find#a strong espresso coffee topped with steamed frothed milk;also called caff latte#
+mainstay#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbWFpbnN0YXk%3d#chief support or supporter#
+urbanite#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNdXJiYW5pdGU%3d#resident of a city 城市居民；城市人#
+lager#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbGFnZXI%3d#kind of beer 一种啤酒；（德国）储藏数月的淡啤酒#
+bicker#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYmlja2Vy#quarrel,esp.about small matters 发生口角；为琐事争吵；斗嘴#
+committed#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY29tbWl0dGVk#having close relations;intimate#
+requisite#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNcmVxdWlzaXRl#required by circumstances or necessary for success 需要的；必要的#
+hypothetical#Can't find#supposed to be so;imaginary assumption of sth#
+vista#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNdmlzdGE%3d#view,esp.one seen through a long,narrow passage,as between rows of trees or houses 狭长的景色，街景；远景；展望#
+marketer#https://fs-gateway.frhelper.com/wordmp3#one that sells goods or services in or to a market,esp.one that markets a specified commodity 在市场做买卖的人，尤指出售某种特定商品的人#
+calmorous#Can't find#marked by confused noise and shouting or by loud demands and complaints#
+groan#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNZ3JvYW4%3d#be heavily filled(with);be burdened (with)堆满；装满；受重压#
+compact#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY29tcGFjdA%3d%3d#occupying little space compared with others of its type不占空间的；与同类型相比占空间较小的#
+dogwalker#Can't find#person who is hired temporarily to help people take care of their dogs#
+prop#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNcHJvcA%3d%3d#sth that supports支撑物；支柱；支持者；靠山#
+churn#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY2h1cm4%3d#(cause to)move about violently#
+cellulite#Can't find#fat in the human body,esp. in the upper legs,which cannot be removed simply by eating less脂肪团#
+stiletto heel#Can't find#high thin metal piece forming the heel of a shoe for women （女士高跟皮鞋的）细鞋跟#
+buoyant#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYnVveWFudA%3d%3d#cheerful;carefree#
+diabetes#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNZGlhYmV0ZXM%3d#any of several metabolic disorders marked by excessive urination and persistent thirst 糖尿病#
+portal#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNcG9ydGFs#grand and imposing entrance;means of entrance 入口；入门#
+sublime#Can't find#very noble or wonderful;of the highest quality#
+sexologist#https://fs-gateway.frhelper.com/wordmp3/d3cad46f-8809-423f-95bc-cca280303d63.mp3#expert in the scientific study of sex 性科学家#
+heterosexual#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNaGV0ZXJvc2V4dWFs#of or showing behavior that indicates attraction to the opposite sex 异性恋的；异性的#
+attached#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYXR0YWNoZWQ%3d#married;engaged;having a steady relationship 已婚的；订婚的；有对象的#
+buzz#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNYnV6eg%3d%3d#make a low droning or vibrating sound like that of a bee;talk,often excitedly,in low tones嗡嗡叫，像蜜蜂一样发出低沉的嗡嗡声或振动音；（通常是兴奋地）低声说话#
+modem#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbW9kZW0%3d#device that converts data from one form into another,as from one form usable in data processing to another form usable in telephonic transmission 调制解调器#
+cheeky#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNY2hlZWt5#shameless；rude;disrespectful 厚颜无耻的，大胆无礼的#
+shod#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc2hvZA%3d%3d#with shoes on 穿着鞋的#
+mandatory#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNbWFuZGF0b3J5#required by law; ordered by an authority;compulsory 依法的；法定的#
+fusion#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNZnVzaW9u#uniting or mixing 融合；联合#
+tramp#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNdHJhbXA%3d#walk with a firm,heavy step;trudge 重步行走；步履艰难地走#
+divorcee#https://fs-gateway.frdic.com/store_main/wordmp3%2f4b553924-da56-4aa3-b0aa-31e5b3bed257.mp3#person who is divorced 离了婚的人#
+seismic#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc2Vpc21pYw%3d%3d#of great proportions,as is caused by an earthquake or vibration of the earth;earthshaking 地震的；震撼（世界）的#
+societal#https://api.frdic.com/api/v2/speech/speakweb?langid=en&voicename=en_uk_male&txt=QYNc29jaWV0YWw%3d#of or from the society#

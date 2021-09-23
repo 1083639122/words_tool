@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for("static",filename='css/bootstrap.css') }}">
+    <title>{{ words_number }}</title>
+</head>
+<body>
+    {% for words_info in words_info_list %}
+        <div class='col-md-offset-10 col-md-12'style="border:1px solid #FF0000;">
+        <h1 class="voice_js text-center text-info" href="#">{{ words_info[0] }}</h1>
+        <audio src="{{ words_info[1] }}" controls="controls" preload id="vvoice{{ words_info[0] }}" hidden>
+        </audio>
+        <p class="text-center">{{ words_info[2] }}<br><br><button class="btn btn-info center" id="voice{{ words_info[0] }}" onclick="bf(id);" >读音</button></p>
+        <br>
+        <br>
+
+        </div>
+    {% endfor %}
+
+
+
+
+
+
+    <script src="{{ url_for('static',filename='js/jquery-3.3.1.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='js/popper.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='js/bootstrap.js') }}"></script>
+
+    <script type="text/javascript">
+
+       function bf(id){
+           var audio = document.getElementById('v'+id);
+           if(audio!==null) {
+
+            if (audio.paused) {
+                audio.play();//audio.play();// 这个就是播放
+            }
+            else {
+                audio.pause();// 这个就是暂停
+            }
+           }
+       }
+    </script>
+</body>
+</html>
